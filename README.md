@@ -63,4 +63,4 @@ This repository uses **GitHub Actions** to cross-compile wheels using the Androi
 
 - [pydantic](https://github.com/pydantic/pydantic-core)
 
-License: MIT
+License: MIT 
